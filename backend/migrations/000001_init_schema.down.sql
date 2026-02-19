@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS catches;
+DROP TABLE IF EXISTS users;
